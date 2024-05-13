@@ -80,8 +80,8 @@ public class Main {
                             valor = "Python é uma linguagem onde parece que voce esta falando ingles com o computador";
                             System.out.println("Valor: " + valor);
                         }
-                        if(chave.equals("Kotlin")){
-                            valor = "Kotlin é uma linguagem similar a java";
+                        if(chave.equals("Php")){
+                            valor = "Php é uma linguagem web ";
                             System.out.println("Valor: " + valor);
                         }
                         if(chave.equals("Css")){
